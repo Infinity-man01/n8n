@@ -1,0 +1,12 @@
+{
+  "name": "n8n-automation-project",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Version-controlled n8n workflows and supporting automation utilities.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scripts/check-project.js"
+  }
+}

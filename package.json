@@ -8,5 +8,8 @@
   },
   "scripts": {
     "check": "node scripts/check-project.js"
+  },
+  "dependencies": {
+    "n8n": "^2.30.7"
   }
 }
